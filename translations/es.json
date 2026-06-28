@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "language": "Spanish",
+    "code": "es",
+    "note": "Starter example. Only some keys are translated — the rest fall back to English. Translate the remaining keys from translations/en.json (copy a key, keep it identical, translate only the value)."
+  },
+  "common.back": "Atrás",
+  "common.cancel": "Cancelar",
+  "common.close": "Cerrar",
+  "common.done": "Hecho",
+  "common.loading": "Cargando…",
+  "common.ok": "OK",
+  "common.retry": "Reintentar",
+  "common.save": "Guardar",
+  "settings.title": "Ajustes",
+  "settings.search": "Buscar ajustes…",
+  "settings.language": "Idioma",
+  "language.title": "Idioma",
+  "language.subtitle": "Elige tu idioma. Las traducciones son aportadas por la comunidad.",
+  "language.currentLabel": "Idioma actual",
+  "language.available": "Idiomas disponibles",
+  "language.downloading": "Descargando traducción…",
+  "language.downloadFailed": "No se pudo descargar ese idioma. Comprueba tu conexión e inténtalo de nuevo.",
+  "language.offlineNote": "Mostrando la lista en caché. Conéctate a internet para actualizar.",
+  "language.contributeTitle": "Ayuda a traducir Pulse",
+  "language.contributeBody": "Pulse es traducido por su comunidad. Añade o mejora un idioma en GitHub — tus cambios llegan a todos sin actualizar la app.",
+  "language.contributeButton": "Contribuir en GitHub",
+  "language.systemDefault": "Predeterminado del sistema",
+  "language.refresh": "Actualizar lista"
+}

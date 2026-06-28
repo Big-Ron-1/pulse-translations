@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "source": "en",
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "file": "translations/en.json"
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "nativeName": "Español",
+      "file": "translations/es.json"
+    }
+  ]
+}
