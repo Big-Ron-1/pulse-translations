@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "note": "Bron-van-waarheid keys voor Pulse. Vertaal alleen WAARDEN; wijzig nooit keys. {placeholders} blijven ongewijzigd."
+    "note": "Source-of-truth keys for Pulse. Translate VALUES only; never change keys. {placeholders} stay as-is."
   },
   "accessoriesSettings.accessories": "Accessoires",
   "accessoriesSettings.autoSetupOnStart": "Automatisch instellen bij opstarten",
